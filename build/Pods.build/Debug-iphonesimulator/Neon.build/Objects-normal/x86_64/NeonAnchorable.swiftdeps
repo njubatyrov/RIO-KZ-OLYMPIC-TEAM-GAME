@@ -1,0 +1,130 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Anchorable"
+provides-nominal:
+- "P4Neon10Anchorable"
+provides-member:
+- ["P4Neon10Anchorable", ""]
+- ["P4Neon10Anchorable", "fillSuperview"]
+- ["P4Neon10Anchorable", "anchorInCenter"]
+- ["P4Neon10Anchorable", "anchorInCorner"]
+- ["P4Neon10Anchorable", "anchorToEdge"]
+- ["P4Neon10Anchorable", "anchorAndFillEdge"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "CGRectMake"
+- !private "*"
+- "Edge"
+- !private "+"
+- !private "AutoHeight"
+- !private "&&"
+- !private "Bool"
+- "CGFloat"
+- !private "BooleanLiteralType"
+- !private "/"
+- !private "-"
+- !private "=="
+- "Anchorable"
+- "Frameable"
+- "Corner"
+depends-member:
+- !private ["P4Neon10Anchorable", "AutoHeight"]
+- !private ["P4Neon10Anchorable", "Bool"]
+- ["P4Neon10Anchorable", "CGFloat"]
+- !private ["P4Neon10Anchorable", "CGRectMake"]
+- ["P4Neon10Anchorable", "Corner"]
+- ["P4Neon10Anchorable", "Edge"]
+- ["P4Neon10Anchorable", "anchorAndFillEdge"]
+- ["P4Neon10Anchorable", "anchorInCenter"]
+- ["P4Neon10Anchorable", "anchorInCorner"]
+- ["P4Neon10Anchorable", "anchorToEdge"]
+- ["P4Neon10Anchorable", "fillSuperview"]
+- !private ["P4Neon10Anchorable", "frame"]
+- !private ["P4Neon10Anchorable", "height"]
+- !private ["P4Neon10Anchorable", "setHeightAutomatically"]
+- !private ["P4Neon10Anchorable", "superFrame"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC6CGRect", "height"]
+- !private ["VSC6CGRect", "width"]
+- ["O4Neon6Corner", "BottomLeft"]
+- ["O4Neon6Corner", "BottomRight"]
+- ["O4Neon6Corner", "TopLeft"]
+- ["O4Neon6Corner", "TopRight"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["O4Neon4Edge", "Bottom"]
+- ["O4Neon4Edge", "Left"]
+- ["O4Neon4Edge", "Right"]
+- ["O4Neon4Edge", "Top"]
+- ["Ps9Equatable", "Bottom"]
+- ["Ps9Equatable", "BottomLeft"]
+- ["Ps9Equatable", "BottomRight"]
+- ["Ps9Equatable", "Left"]
+- ["Ps9Equatable", "Right"]
+- ["Ps9Equatable", "Top"]
+- ["Ps9Equatable", "TopLeft"]
+- ["Ps9Equatable", "TopRight"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "height"]
+- !private ["Ps9Equatable", "width"]
+- !private ["P4Neon9Frameable", "AutoHeight"]
+- !private ["P4Neon9Frameable", "Bool"]
+- ["P4Neon9Frameable", "CGFloat"]
+- !private ["P4Neon9Frameable", "CGRectMake"]
+- ["P4Neon9Frameable", "Corner"]
+- ["P4Neon9Frameable", "Edge"]
+- !private ["P4Neon9Frameable", "anchorAndFillEdge"]
+- !private ["P4Neon9Frameable", "anchorInCenter"]
+- !private ["P4Neon9Frameable", "anchorInCorner"]
+- !private ["P4Neon9Frameable", "anchorToEdge"]
+- !private ["P4Neon9Frameable", "deinit"]
+- !private ["P4Neon9Frameable", "frame"]
+- !private ["P4Neon9Frameable", "height"]
+- !private ["P4Neon9Frameable", "setHeightAutomatically"]
+- !private ["P4Neon9Frameable", "superFrame"]
+- ["P4Neon9Frameable", ""]
+- ["Ps8Hashable", "Bottom"]
+- ["Ps8Hashable", "BottomLeft"]
+- ["Ps8Hashable", "BottomRight"]
+- ["Ps8Hashable", "Left"]
+- ["Ps8Hashable", "Right"]
+- ["Ps8Hashable", "Top"]
+- ["Ps8Hashable", "TopLeft"]
+- ["Ps8Hashable", "TopRight"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "height"]
+- !private ["Ps12_Reflectable", "width"]
+depends-nominal:
+- "P4Neon10Anchorable"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGRect"
+- "O4Neon6Corner"
+- !private "Ps23CustomStringConvertible"
+- "O4Neon4Edge"
+- "Ps9Equatable"
+- "P4Neon9Frameable"
+- "Ps8Hashable"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Target Support Files/Neon/Neon-umbrella.h"
+- "/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Neon.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "296083f2150902711cd3f83b46173f7a"

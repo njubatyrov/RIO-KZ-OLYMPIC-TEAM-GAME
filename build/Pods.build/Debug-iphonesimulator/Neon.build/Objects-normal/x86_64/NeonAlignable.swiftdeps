@@ -1,0 +1,149 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Alignable"
+provides-nominal:
+- "P4Neon9Alignable"
+provides-member:
+- ["P4Neon9Alignable", ""]
+- ["P4Neon9Alignable", "align"]
+- ["P4Neon9Alignable", "alignAndFillWidth"]
+- ["P4Neon9Alignable", "alignAndFillHeight"]
+- ["P4Neon9Alignable", "alignAndFill"]
+- ["P4Neon9Alignable", "alignBetweenHorizontal"]
+- ["P4Neon9Alignable", "alignBetweenVertical"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "AutoHeight"
+- !private "<"
+- !private "=="
+- !private "*"
+- !private "+"
+- "Alignable"
+- !private "StringLiteralType"
+- "Frameable"
+- !private "fatalError"
+- !private "CGRectMake"
+- !private "/"
+- "Align"
+- !private "-"
+- "CGFloat"
+depends-member:
+- ["O4Neon5Align", "AboveCentered"]
+- ["O4Neon5Align", "AboveMatchingLeft"]
+- ["O4Neon5Align", "AboveMatchingRight"]
+- ["O4Neon5Align", "ToTheLeftCentered"]
+- ["O4Neon5Align", "ToTheLeftMatchingBottom"]
+- ["O4Neon5Align", "ToTheLeftMatchingTop"]
+- ["O4Neon5Align", "ToTheRightCentered"]
+- ["O4Neon5Align", "ToTheRightMatchingBottom"]
+- ["O4Neon5Align", "ToTheRightMatchingTop"]
+- ["O4Neon5Align", "UnderCentered"]
+- ["O4Neon5Align", "UnderMatchingLeft"]
+- ["O4Neon5Align", "UnderMatchingRight"]
+- ["P4Neon9Alignable", "Align"]
+- !private ["P4Neon9Alignable", "AutoHeight"]
+- ["P4Neon9Alignable", "CGFloat"]
+- !private ["P4Neon9Alignable", "CGRectMake"]
+- ["P4Neon9Alignable", "Frameable"]
+- ["P4Neon9Alignable", "align"]
+- ["P4Neon9Alignable", "alignAndFill"]
+- ["P4Neon9Alignable", "alignAndFillHeight"]
+- ["P4Neon9Alignable", "alignAndFillWidth"]
+- ["P4Neon9Alignable", "alignBetweenHorizontal"]
+- ["P4Neon9Alignable", "alignBetweenVertical"]
+- !private ["P4Neon9Alignable", "fatalError"]
+- !private ["P4Neon9Alignable", "frame"]
+- !private ["P4Neon9Alignable", "height"]
+- !private ["P4Neon9Alignable", "setHeightAutomatically"]
+- !private ["P4Neon9Alignable", "superFrame"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC6CGRect", "height"]
+- !private ["VSC6CGRect", "width"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "AboveCentered"]
+- ["Ps9Equatable", "AboveMatchingLeft"]
+- ["Ps9Equatable", "AboveMatchingRight"]
+- ["Ps9Equatable", "ToTheLeftCentered"]
+- ["Ps9Equatable", "ToTheLeftMatchingBottom"]
+- ["Ps9Equatable", "ToTheLeftMatchingTop"]
+- ["Ps9Equatable", "ToTheRightCentered"]
+- ["Ps9Equatable", "ToTheRightMatchingBottom"]
+- ["Ps9Equatable", "ToTheRightMatchingTop"]
+- ["Ps9Equatable", "UnderCentered"]
+- ["Ps9Equatable", "UnderMatchingLeft"]
+- ["Ps9Equatable", "UnderMatchingRight"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "height"]
+- !private ["Ps9Equatable", "width"]
+- ["P4Neon9Frameable", "Align"]
+- !private ["P4Neon9Frameable", "AutoHeight"]
+- ["P4Neon9Frameable", "CGFloat"]
+- !private ["P4Neon9Frameable", "CGRectMake"]
+- ["P4Neon9Frameable", "Frameable"]
+- !private ["P4Neon9Frameable", "align"]
+- !private ["P4Neon9Frameable", "alignAndFillWidth"]
+- !private ["P4Neon9Frameable", "alignBetweenHorizontal"]
+- !private ["P4Neon9Frameable", "deinit"]
+- !private ["P4Neon9Frameable", "fatalError"]
+- !private ["P4Neon9Frameable", "frame"]
+- !private ["P4Neon9Frameable", "height"]
+- !private ["P4Neon9Frameable", "setHeightAutomatically"]
+- !private ["P4Neon9Frameable", "superFrame"]
+- !private ["P4Neon9Frameable", "x"]
+- !private ["P4Neon9Frameable", "xMax"]
+- !private ["P4Neon9Frameable", "xMid"]
+- !private ["P4Neon9Frameable", "y"]
+- !private ["P4Neon9Frameable", "yMax"]
+- !private ["P4Neon9Frameable", "yMid"]
+- ["P4Neon9Frameable", ""]
+- ["Ps8Hashable", "AboveCentered"]
+- ["Ps8Hashable", "AboveMatchingLeft"]
+- ["Ps8Hashable", "AboveMatchingRight"]
+- ["Ps8Hashable", "ToTheLeftCentered"]
+- ["Ps8Hashable", "ToTheLeftMatchingBottom"]
+- ["Ps8Hashable", "ToTheLeftMatchingTop"]
+- ["Ps8Hashable", "ToTheRightCentered"]
+- ["Ps8Hashable", "ToTheRightMatchingBottom"]
+- ["Ps8Hashable", "ToTheRightMatchingTop"]
+- ["Ps8Hashable", "UnderCentered"]
+- ["Ps8Hashable", "UnderMatchingLeft"]
+- ["Ps8Hashable", "UnderMatchingRight"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "height"]
+- !private ["Ps12_Reflectable", "width"]
+depends-nominal:
+- "O4Neon5Align"
+- "P4Neon9Alignable"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGRect"
+- !private "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "P4Neon9Frameable"
+- "Ps8Hashable"
+- !private "Vs12StaticString"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Target Support Files/Neon/Neon-umbrella.h"
+- "/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Neon.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "df5db75d0a5a596bec4b6d657418f499"

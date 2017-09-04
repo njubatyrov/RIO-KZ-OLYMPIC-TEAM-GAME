@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "cfc49bdefb730dcafc8bd5c0cf73246c"
+build_time: [557873950, 585788000]
+inputs:
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Neon/Source/Neon.swift": [523810784, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Neon/Source/NeonAlignable.swift": [523810784, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Neon/Source/NeonAnchorable.swift": [523810784, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Neon/Source/NeonFrameable.swift": [523810784, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Neon/Source/NeonGroupable.swift": [523810784, 0]

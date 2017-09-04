@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e14ad827bfe467a46cb35eae034661b9"
+build_time: [557873955, 224524000]
+inputs:
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Rio/ResultViewController.swift": !dirty [523893383, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Rio/Person.swift": !dirty [523898477, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Rio/AppDelegate.swift": !dirty [523652126, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Rio/QuestionViewController.swift": !dirty [524911400, 0]
+  "/Users/nursultan/Desktop/NU/n17r/Rio/Rio/MainViewController.swift": !dirty [523898946, 0]

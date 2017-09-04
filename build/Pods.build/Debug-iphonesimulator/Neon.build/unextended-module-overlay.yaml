@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Neon/Neon.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Neon.build/unextended-module.modulemap',
+    }]
+  }]
+}

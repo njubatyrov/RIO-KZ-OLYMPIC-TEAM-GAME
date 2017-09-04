@@ -1,0 +1,15 @@
+PODS:
+  - Canvas (0.1.2)
+  - Neon (0.2.0)
+
+DEPENDENCIES:
+  - Canvas (~> 0.1.2)
+  - Neon
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  Neon: c7de6b6186c31870a0cacab6e018d0641bd12dca
+
+PODFILE CHECKSUM: 4633397e5eaa041723086e49fd25346260489a2f
+
+COCOAPODS: 1.0.1

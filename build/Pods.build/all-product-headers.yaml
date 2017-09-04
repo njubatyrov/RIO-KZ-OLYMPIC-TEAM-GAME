@@ -1,0 +1,142 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Canvas/Canvas.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CSAnimation.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/CSAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSAnimationView.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/CSAnimationView.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSBlurView.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/CSBlurView.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSNavigationController.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/CSNavigationController.h"
+        },
+        {
+          'type': 'file',
+          'name': "Canvas-Swift.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Canvas/Canvas.framework/Headers/Canvas-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Canvas-umbrella.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Target Support Files/Canvas/Canvas-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Canvas.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/Canvas.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+TCCustomFont.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/UIButton+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UILabel+TCCustomFont.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/UILabel+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationBar+TCCustomFont.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/UINavigationBar+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+PlaceholderColor.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/UITextField+PlaceholderColor.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+TCCustomFont.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/UITextField+TCCustomFont.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+TCCustomFont.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Canvas/CanvasLibrary/UITextView+TCCustomFont.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Canvas/Canvas.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Canvas.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Neon/Neon.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Neon-Swift.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Neon/Neon.framework/Headers/Neon-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Neon-umbrella.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Target Support Files/Neon/Neon-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Neon/Neon.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Neon.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Pods_Rio.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Rio-umbrella.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Target Support Files/Pods-Rio/Pods-Rio-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Rio-Swift.h",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Pods_Rio.framework/Headers/Pods_Rio-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Debug-iphonesimulator/Pods_Rio.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Pods-Rio.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

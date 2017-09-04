@@ -1,0 +1,65 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Frameable"
+provides-nominal:
+- "P4Neon9Frameable"
+provides-member:
+- ["P4Neon9Frameable", ""]
+- ["P4Neon9Frameable", "x"]
+- ["P4Neon9Frameable", "xMid"]
+- ["P4Neon9Frameable", "xMax"]
+- ["P4Neon9Frameable", "y"]
+- ["P4Neon9Frameable", "yMid"]
+- ["P4Neon9Frameable", "yMax"]
+- ["P4Neon9Frameable", "width"]
+- ["P4Neon9Frameable", "height"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "CGRectGetMinY"
+- "CGFloat"
+- "CGRect"
+- !private "+"
+- !private "CGRectGetMaxX"
+- !private "CGRectGetMaxY"
+- !private "CGRectGetMinX"
+- !private "/"
+- "Frameable"
+- !private "CGRectGetWidth"
+- !private "CGRectGetHeight"
+depends-member:
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- ["P4Neon9Frameable", "CGFloat"]
+- ["P4Neon9Frameable", "CGRect"]
+- !private ["P4Neon9Frameable", "CGRectGetHeight"]
+- !private ["P4Neon9Frameable", "CGRectGetMaxX"]
+- !private ["P4Neon9Frameable", "CGRectGetMaxY"]
+- !private ["P4Neon9Frameable", "CGRectGetMinX"]
+- !private ["P4Neon9Frameable", "CGRectGetMinY"]
+- !private ["P4Neon9Frameable", "CGRectGetWidth"]
+- ["P4Neon9Frameable", "frame"]
+- ["P4Neon9Frameable", "height"]
+- ["P4Neon9Frameable", "setHeightAutomatically"]
+- ["P4Neon9Frameable", "superFrame"]
+- ["P4Neon9Frameable", "width"]
+- ["P4Neon9Frameable", "x"]
+- ["P4Neon9Frameable", "xMax"]
+- ["P4Neon9Frameable", "xMid"]
+- ["P4Neon9Frameable", "y"]
+- ["P4Neon9Frameable", "yMax"]
+- ["P4Neon9Frameable", "yMid"]
+depends-nominal:
+- !private "V12CoreGraphics7CGFloat"
+- "P4Neon9Frameable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/nursultan/Desktop/NU/n17r/Rio/Pods/Target Support Files/Neon/Neon-umbrella.h"
+- "/Users/nursultan/Desktop/NU/n17r/Rio/build/Pods.build/Debug-iphonesimulator/Neon.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "47851676a99b7d2de30d3e9a2278a09e"

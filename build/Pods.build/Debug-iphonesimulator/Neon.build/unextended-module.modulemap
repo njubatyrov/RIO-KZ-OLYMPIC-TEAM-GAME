@@ -1,0 +1,10 @@
+framework module Neon {
+  umbrella header "Neon-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Neon.__Swift {
+    exclude header "Neon-Swift.h"
+}
